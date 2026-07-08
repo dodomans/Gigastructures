@@ -27,7 +27,7 @@ quasi_stellar_obliterator_0 = {
 	}
 
 	potential = {
-		has_ascension_perk = ap_qso
+		has_ascension_perk = ap_gigastructural_constructs
 		has_technology = giga_tech_quasi_stellar_1
 		NOT = { has_global_flag = quasistellar_disabled }
 	}
@@ -112,7 +112,7 @@ quasi_stellar_obliterator_1 = {
 	}
 
 	potential = {
-		has_ascension_perk = ap_qso
+		has_ascension_perk = ap_gigastructural_constructs
 		has_technology = giga_tech_quasi_stellar_2
 	}
 
@@ -161,7 +161,7 @@ quasi_stellar_obliterator_2 = {
 	}
 
 	potential = {
-		has_ascension_perk = ap_qso
+		has_ascension_perk = ap_gigastructural_constructs
 		has_technology = giga_tech_quasi_stellar_3
 	}
 
@@ -206,7 +206,7 @@ quasi_stellar_obliterator_3 = {
 	}
 
 	potential = {
-		has_ascension_perk = ap_qso
+		has_ascension_perk = ap_gigastructural_constructs
 		has_technology = giga_tech_quasi_stellar_4
 	}
 	on_build_complete = {
@@ -251,7 +251,7 @@ quasi_stellar_obliterator_4 = {
 	}
 
 	potential = {
-		has_ascension_perk = ap_qso
+		has_ascension_perk = ap_gigastructural_constructs
 		has_technology = giga_tech_quasi_stellar_5
 	}
 
@@ -327,7 +327,7 @@ quasi_stellar_obliterator_5 = {
 	}
 
 	potential = {
-		has_ascension_perk = ap_qso
+		has_ascension_perk = ap_gigastructural_constructs
 		has_technology = giga_tech_quasi_stellar_6
 	}
 
@@ -373,7 +373,7 @@ quasi_stellar_obliterator_6 = {
 	}
 	
 	potential = {
-		has_ascension_perk = ap_qso
+		has_ascension_perk = ap_gigastructural_constructs
 		has_technology = giga_tech_quasi_stellar_2
 	}
 
