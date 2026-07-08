@@ -94,7 +94,7 @@ giga_tech_quasi_stellar_1 = {
 	modifier = { ship_shield_mult = 0.1 }
 
 	potential = {
-		has_ascension_perk = ap_qso
+		has_ascension_perk = ap_gigastructural_constructs
 		NOT = { has_global_flag = quasistellar_disabled }
 		is_nomadic = no
 	}
@@ -161,7 +161,7 @@ giga_tech_birch_world_1 = {
 	potential = {
 		or = {
 			AND = {
-				has_ascension_perk = ap_vast_expanses
+				has_ascension_perk = ap_gigastructural_constructs
 				NOT = { has_global_flag = birch_disabled }
 			}
 			any_owned_planet = {
@@ -236,7 +236,7 @@ giga_tech_supermassive_ehof = {
 	weight = 0
 	is_rare = yes
 	potential = {
-		has_ascension_perk = ap_supermassive_ehof
+		has_ascension_perk = ap_gigastructural_constructs
 	}
 	prereqfor_desc = {
 		hide_prereq_for_desc = ship
