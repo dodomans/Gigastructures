@@ -27,7 +27,7 @@ birch_world_0 = {
 	}
 
 	potential = {
-		has_ascension_perk = ap_vast_expanses
+		has_ascension_perk = ap_gigastructural_constructs
 		has_technology = giga_tech_birch_world_1
 		NOT = { has_global_flag = birch_disabled }
 		giga_can_use_habitables = yes
@@ -95,7 +95,7 @@ birch_world_1 = {
 	potential = { NOT = { has_global_flag = birch_disabled } }
 	possible = {
 		from = {
-			has_ascension_perk = ap_vast_expanses
+			has_ascension_perk = ap_gigastructural_constructs
 			has_technology = giga_tech_birch_world_1
 		}
 	}
@@ -143,7 +143,7 @@ birch_world_2 = {
 	potential = { NOT = { has_global_flag = birch_disabled } }
 	possible = {
 		from = {
-			has_ascension_perk = ap_vast_expanses
+			has_ascension_perk = ap_gigastructural_constructs
 			has_technology = giga_tech_birch_world_1
 		}
 	}
@@ -190,7 +190,7 @@ birch_world_3 = {
 	potential = { NOT = { has_global_flag = birch_disabled } }
 	possible = {
 		from = {
-			has_ascension_perk = ap_vast_expanses
+			has_ascension_perk = ap_gigastructural_constructs
 			has_technology = giga_tech_birch_world_1
 		}
 	}
