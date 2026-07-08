@@ -9,8 +9,7 @@ has_gigastructural_constructs = {
 			is_ai = yes
 			has_country_flag = giga_gigastructural_constructs_override
 		}
-
-		has_ascension_perk = ap_gigastructural_constructs
+		has_technology = giga_tech_tetradimensional_engineering
 	}
 }
 
