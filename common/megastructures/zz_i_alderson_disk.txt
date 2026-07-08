@@ -27,7 +27,7 @@ alderson_disk_0 = {
 
 	potential = {
 		has_technology = giga_tech_alderson_disk
-		has_ascension_perk = ap_gigastructural_constructs
+		has_gigastructural_constructs = yes
 		NOT = { has_global_flag = alderson_disabled }
 		giga_can_use_habitables = yes
 		OR = {
@@ -152,7 +152,7 @@ alderson_disk_1 = {
 		has_enough_bm = yes
 		from = {
 			has_technology = giga_tech_alderson_disk
-			has_ascension_perk = ap_gigastructural_constructs
+			has_gigastructural_constructs = yes
 		}
 	}
 
@@ -232,7 +232,7 @@ alderson_disk_2_gaia = {
 	possible = {
 		from = {
 			has_technology = giga_tech_alderson_disk
-			has_ascension_perk = ap_gigastructural_constructs
+			has_gigastructural_constructs = yes
 		}
 	}
 
@@ -341,7 +341,7 @@ alderson_disk_2_gaia = {
 # 		from = {
 # 			has_technology = giga_tech_planetary_computer
 # 			has_technology = giga_tech_alderson_disk
-# 			has_ascension_perk = ap_gigastructural_constructs
+# 			has_gigastructural_constructs = yes
 # 		}
 # 	}
 
@@ -444,7 +444,7 @@ alderson_disk_2_gaia = {
 # 	possible = {
 # 		from = {
 # 			has_technology = giga_tech_alderson_disk
-# 			has_ascension_perk = ap_gigastructural_constructs
+# 			has_gigastructural_constructs = yes
 # 			has_ascension_perk = ap_arcology_project
 # 		}
 # 	}
@@ -544,7 +544,7 @@ alderson_disk_2_gaia = {
 # 	possible = {
 # 		from = {
 # 			has_technology = giga_tech_alderson_disk
-# 			has_ascension_perk = ap_gigastructural_constructs
+# 			has_gigastructural_constructs = yes
 # 		}
 # 	}
 
@@ -643,7 +643,7 @@ alderson_disk_2_gaia = {
 # 	possible = {
 # 		from = {
 # 			has_technology = giga_tech_alderson_disk
-# 			has_ascension_perk = ap_gigastructural_constructs
+# 			has_gigastructural_constructs = yes
 # 			has_ascension_perk = ap_machine_worlds
 # 		}
 # 	}
