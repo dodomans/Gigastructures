@@ -27,7 +27,7 @@ supermassive_ehof_0 = {
 	}
 
 	potential = {
-		has_ascension_perk = ap_supermassive_ehof
+		has_ascension_perk = ap_gigastructural_constructs
 		has_technology = giga_tech_supermassive_ehof
 		NOT = { has_global_flag = supermassive_ehof_disabled }
 	}
@@ -94,7 +94,7 @@ supermassive_ehof_1 = {
 	potential = { NOT = { has_global_flag = supermassive_ehof_disabled } }
 	possible = {
 		from = {
-			has_ascension_perk = ap_supermassive_ehof
+			has_ascension_perk = ap_gigastructural_constructs
 			has_technology = giga_tech_supermassive_ehof
 		}
 	}
@@ -143,7 +143,7 @@ supermassive_ehof_2 = {
 	potential = { NOT = { has_global_flag = supermassive_ehof_disabled } }
 	possible = {
 		from = {
-			has_ascension_perk = ap_supermassive_ehof
+			has_ascension_perk = ap_gigastructural_constructs
 			has_technology = giga_tech_supermassive_ehof
 		}
 	}
@@ -217,7 +217,7 @@ supermassive_ehof_3 = {
 
 	possible = {
 		from = {
-			has_ascension_perk = ap_supermassive_ehof
+			has_ascension_perk = ap_gigastructural_constructs
 			has_technology = giga_tech_supermassive_ehof
 		}
 	}
@@ -289,7 +289,7 @@ supermassive_ehof_3_no_catapult = {
 
 	possible = {
 		from = {
-			has_ascension_perk = ap_supermassive_ehof
+			has_ascension_perk = ap_gigastructural_constructs
 			has_technology = giga_tech_supermassive_ehof
 		}
 	}
