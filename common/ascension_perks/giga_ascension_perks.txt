@@ -3,6 +3,12 @@
 #	Two sounds acceptable. We've got the original constructs, systemcraft ship, alderson disk, and galcore switch.
 #	Since all but original require giga_tech_tetradimensional_engineering anyway, easiest seems to be merge them all.
 ###
+
+### Gigas AP Rework
+#	The entire mod is locked behind galwonders and then gigastructural constructs
+#	Unlock them to 2 new techs, and lock any of the better stuff behind the two perks
+#	Figure out what content to move into which tier
+###
 ap_gigastructural_constructs = {
 	ai_weight = { factor = 1000 }
 	on_enabled = {
@@ -241,3 +247,22 @@ ap_supermassive_ehof = {
 		is_nomadic = no
 	}
 }
+
+
+# Kilo Tier
+
+# Mega Tier (Mega Engineering)
+
+# Mega Plus Tier (Build Mega Engineering Tier structure, Research New Tech)
+
+## GalWonders (Build Mega Plus Tier structure, Take Ascension Perk)
+
+# Giga Tier (Build Mega Plus Tier structure, Research New Tech)
+
+## Gigastructural Constructs (Build Giga Tier structure, Research New Tech)
+
+# Tera Tier (core structures, maybe build a giga tier structure first?)
+
+# Birch World
+# Supermassive EHOF
+# Quasi-Stellar Obliterator
